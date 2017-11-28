@@ -16,7 +16,7 @@ using System.Windows.Shapes;
 namespace WpfAppTestRepo
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for MainWindow.xaml asdf
     /// </summary>
     public partial class MainWindow : Window
     {
